@@ -17,20 +17,25 @@ App Name is a comprehensive mobile application designed to [briefly describe the
 ## Screenshots
 
 ### No Internet Connection
-<img src="https://image-cg99.vercel.app/All-in-one-app-image/No-Internet-connection.jpg" alt="No Internet Connection" width="400">
+<img src="https://image-cg99.vercel.app/All-in-one-app-image/No-Internet-connection.jpg" alt="No Internet Connection" width="200" style="display:inline; margin-right:10px;">
 
 ### Feature 1
-<img src="path-to-your-image-1" alt="Feature 1" width="400">
+<img src="path-to-your-image-1" alt="Feature 1" width="200" style="display:inline; margin-right:10px;">
 
 ### Feature 2
-<img src="path-to-your-image-2" alt="Feature 2" width="400">
+<img src="path-to-your-image-2" alt="Feature 2" width="200" style="display:inline; margin-right:10px;">
 
 ### Feature 3
-<img src="path-to-your-image-3" alt="Feature 3" width="400">
+<img src="path-to-your-image-3" alt="Feature 3" width="200" style="display:inline; margin-right:10px;">
 
 ### Feature 4
-<img src="path-to-your-image-4" alt="Feature 4" width="400">
+<img src="path-to-your-image-4" alt="Feature 4" width="200" style="display:inline; margin-right:10px;">
 
 ### Feature 5
-<img src="path-to-your-image-5" alt="Feature 5" width="400">
+<img src="path-to-your-image-5" alt="Feature 5" width="200" style="display:inline; margin-right:10px;">
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/your-app.git

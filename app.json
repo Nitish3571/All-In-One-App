@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "AllInOne",
+    "name": "All In One",
+    "displayName": "All In One",
     "slug": "AllInOne",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.AllInOne"
     },
     "web": {
       "favicon": "./assets/favicon.png"

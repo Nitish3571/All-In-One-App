@@ -1,6 +1,6 @@
 # App Name README
 
-![App Logo](path-to-your-logo)
+<img src="path-to-your-logo" alt="App Logo" width="200">
 
 ## Overview
 
@@ -17,25 +17,20 @@ App Name is a comprehensive mobile application designed to [briefly describe the
 ## Screenshots
 
 ### No Internet Connection
-![No Internet Connection](https://image-cg99.vercel.app/All-in-one-app-image/No-Internet-connection.jpg)
+<img src="https://image-cg99.vercel.app/All-in-one-app-image/No-Internet-connection.jpg" alt="No Internet Connection" width="400">
 
 ### Feature 1
-![Feature 1](path-to-your-image-1)
+<img src="path-to-your-image-1" alt="Feature 1" width="400">
 
 ### Feature 2
-![Feature 2](path-to-your-image-2)
+<img src="path-to-your-image-2" alt="Feature 2" width="400">
 
 ### Feature 3
-![Feature 3](path-to-your-image-3)
+<img src="path-to-your-image-3" alt="Feature 3" width="400">
 
 ### Feature 4
-![Feature 4](path-to-your-image-4)
+<img src="path-to-your-image-4" alt="Feature 4" width="400">
 
 ### Feature 5
-![Feature 5](path-to-your-image-5)
+<img src="path-to-your-image-5" alt="Feature 5" width="400">
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/your-app.git
